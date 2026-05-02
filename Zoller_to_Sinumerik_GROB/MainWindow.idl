@@ -1,0 +1,8 @@
+namespace Zoller_to_Sinumerik_GROB
+{
+    [default_interface]
+    runtimeclass MainWindow : Microsoft.UI.Xaml.Window
+    {
+        MainWindow();
+    }
+}
